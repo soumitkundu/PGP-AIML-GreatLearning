@@ -20,7 +20,11 @@ AIML module project part I consists of stepwise task based assessment which can 
 14. Export the data frames to excel, csv, html and json formats.
 15. Measure and display how much time it takes to execute the code. Optimise your code to reduce the time.
 
+---
+
 ## Part II
+
+AIML module project part II consists of automating all the tasks from Part I which can be accomplished using python programming skills.
 
 - Automate all the tasks listed in part I.
 - Your function should be able to create datasets with N rows. [ Where N is defined by the user. N is any integer. ]
